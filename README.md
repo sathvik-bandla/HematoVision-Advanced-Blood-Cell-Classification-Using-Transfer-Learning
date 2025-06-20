@@ -28,6 +28,7 @@ It uses **Transfer Learning (MobileNetV2)** for high accuracy and is built with 
 
 ## 📦 Project Structure
 
+```bash
 HematoVision/
 ├── app.py # Flask app
 ├── Blood Cell.h5 # Pretrained model file (~60MB)
@@ -37,7 +38,7 @@ HematoVision/
 └── templates/ # HTML pages
 ├── home.html # Upload page
 └── result.html # Result display page
-
+```
 
 ---
 
