@@ -45,10 +45,10 @@ HematoVision/
 
 ### 1. Clone the Repository
 
-'''bash
+```bash
 git clone https://github.com/sathvik-bandla/HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning.git
-cd HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning'''
-'''
+cd HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
+```
 ### 2.(Optional) Create Virtual Environment
 
 python -m venv venv
