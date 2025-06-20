@@ -33,11 +33,10 @@ HematoVision/
 ├── app.py # Flask app
 ├── Blood Cell.h5 # Pretrained model file (~60MB)
 ├── requirements.txt # Python dependencies
-├── Procfile # For Render deployment
 ├── static/ # Uploaded images go here
 └── templates/ # HTML pages
-├── home.html # Upload page
-└── result.html # Result display page
+    ├── home.html # Upload page
+    └── result.html # Result display page
 ```
 
 ---
