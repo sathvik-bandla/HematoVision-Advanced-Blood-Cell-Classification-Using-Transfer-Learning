@@ -49,13 +49,28 @@ HematoVision/
 git clone https://github.com/sathvik-bandla/HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning.git
 cd HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
 ```
-### 2.(Optional) Create Virtual Environment
+### 2. (Optional) Create Virtual Environment
 
+```bash
 python -m venv venv
-venv\Scripts\activate #Windows
-# source venv/bin/activate # macOS/Linux
+venv\Scripts\activate       # Windows
+# source venv/bin/activate   # macOS/Linux
+```
 
-### 3.
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Flask App
+
+```bash
+python app.py
+```
+
+Then go to [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
+
 
 
 
