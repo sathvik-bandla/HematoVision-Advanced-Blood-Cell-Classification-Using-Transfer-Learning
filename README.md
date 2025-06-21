@@ -42,7 +42,7 @@ HematoVision/
 
 ## 💻 Run Locally
 
-Open Command prompt (Anaconda prompt if exists) in your and follow the below commands
+Open Command prompt (Anaconda prompt if exists) in your system and follow the below commands
 ### 1. Clone the Repository
 
 ```bash
