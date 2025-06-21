@@ -12,7 +12,6 @@ It uses **Transfer Learning (MobileNetV2)** for high accuracy and is built with 
 
 ## 🚀 Demo
 
-🔗 **Live Demo (coming soon via Render)**  
 📷 Upload a blood cell image → 🧠 Model predicts the cell type → 📊 Result with image preview
 
 ---
@@ -43,13 +42,14 @@ HematoVision/
 
 ## 💻 Run Locally
 
+Open Command prompt (Anaconda prompt if exists) in your and follow the below commands
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/sathvik-bandla/HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning.git
 cd HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
 ```
-### 2. (Optional) Create Virtual Environment
+### 2. Create Virtual Environment (Optional)
 
 ```bash
 python -m venv venv
